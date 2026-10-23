@@ -1,0 +1,1 @@
+4f186d934b6d498e1c78d75e30e45aca84dc6fc4020dd803acc662f09214e642  dist/Shinelon-ModeIndicator.exe
